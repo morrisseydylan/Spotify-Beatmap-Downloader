@@ -13,4 +13,4 @@ A simple WinForms app that allows you to automatically search for osu! beatmaps 
 
 [Ookii.Dialogs.WinForms](Ookii.Dialogs.WinForms)
 
-This is a rewrite of an app that originated as a university term project for COP3530, written in C++ using [wxWidgets](http://wxwidgets.org/) and [C++ Requests](https://github.com/whoshuu/cpr).
+This is a rewrite of [an app that originated as a university term project for COP3530, written in C++](https://github.com/morrisseydylan/spotify-beatmaps).
