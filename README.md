@@ -1,11 +1,5 @@
 # Spotify Beatmap Downloader
 A simple WinForms app that allows you to automatically search for osu! beatmaps for songs in your Spotify playlists.
-# Work in progress
-The app is a work in progress.
-
-Currently the search algorithm only finds beatmaps with exact matches for the artist and title, so oftentimes the app falsely reports that a song doesn't have a beatmap.
-
-Please report any bugs.
 # How to use
 1. Follow the directions in the app to link your Spotify account.
 2. Select the playlist containing the songs for which you want to find beatmaps; then click "Open playlist(s)."
@@ -19,4 +13,4 @@ Please report any bugs.
 
 [Ookii.Dialogs.WinForms](Ookii.Dialogs.WinForms)
 
-The app originated as a university term project for COP3530. It was written in C++ using [wxWidgets](http://wxwidgets.org/) and [C++ Requests](https://github.com/whoshuu/cpr).
+This is a rewrite of an app that originated as a university term project for COP3530, written in C++ using [wxWidgets](http://wxwidgets.org/) and [C++ Requests](https://github.com/whoshuu/cpr).
